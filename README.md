@@ -19,8 +19,9 @@ Four different types of data about a gene are integrated: annotations from gener
 
 ## Supported organisms
 
-Currently, annotation databases have been built for the following 25 model organisms:
+Currently, annotation databases have been built for the following organisms:
 
+- *Anopheles gambiae* (African Malaria Mosquito)
 - *Apis mellifera* (Honey Bee)
 - *Arabidopsis thaliana* (Arabidopsis)
 - *Bos taurus* (Cattle)
@@ -29,7 +30,9 @@ Currently, annotation databases have been built for the following 25 model organ
 - *Caenorhabditis elegans* (Worm)
 - *Canis lupus familiaris* (Dog)
 - *Danio rerio* (Zebrafish)
+- *Dictyostelium discoideum* (Social Amoeba)
 - *Drosophila melanogaster* (Fly)
+- *Equus caballus* (Horse)
 - *Escherichia coli K12 MG1655* (Ecoli K12)
 - *Gallus gallus* (Chicken)
 - *Homo sapiens* (Human)
@@ -37,11 +40,14 @@ Currently, annotation databases have been built for the following 25 model organ
 - *Macaca mulatta* (Macaque)
 - *Mus musculus* (Mouse)
 - *Oryza sativa* (Rice)
+- *Pan troglodytes* (Chimpanzee)
 - *Phaseolus vulgaris* (Common Bean)
+- *Plasmodium falciparum 3D7* (Malaria Parasite)
 - *Rattus norvegicus* (Rat)
 - *Saccharomyces cerevisiae* (Yeast)
 - *Schizosaccharomyces pombe* (Fission Yeast)
 - *Solanum lycopersicum* (Tomato)
+- *Sus scrofa* (Pig)
 - *Vitis vinifera* (Grapevine)
 - *Xenopus laevis* (African Clawed Frog)
 - *Xenopus tropicalis* (Tropical Clawed Frog)
